@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test2/src" isTestSource="false" packagePrefix="Ruppey\ExcelValidate\" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/test2/vendor/symfony/polyfill-mbstring" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

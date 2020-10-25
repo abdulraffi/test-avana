@@ -1,0 +1,19 @@
+{
+    "name": "ruppey/excel-validate",
+    "description": "Excel Validate",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.15"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Raffi",
+            "email": "rafiimaut@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ruppey\\ExcelValidate\\": "src/"
+        }
+    }
+}
